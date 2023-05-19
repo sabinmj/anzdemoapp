@@ -1,4 +1,4 @@
-package com.shyam.schoolslist
+package com.sabin.anzdemoapp
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
